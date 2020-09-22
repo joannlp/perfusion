@@ -1,0 +1,65 @@
+Sample,Strain,Condition,Concentration,Treatment,H2O2_conc_uM
+X180430_02_tic.csv,PA14+MB,Control,Control,Control,
+X180430_03_tic.csv,phz,Control,Control,Control,
+X180507_02_tic.csv,PA14+MB,Gentamicin,20ug/ml,Gentamicin,
+X180507_03_tic.csv,phz,Gentamicin,20ug/ml,Gentamicin,
+X180524_02_tic.csv,PA14+MB,Gentamicin,20ug/ml,Gentamicin,
+X180524_03_tic.csv,phz,Gentamicin,20ug/ml,Gentamicin,
+X180524_04_tic.csv,PA14+MB,Gentamicin,20ug/ml,Gentamicin,
+X180524_05_tic.csv,phz,Gentamicin,20ug/ml,Gentamicin,
+X180601_02_tic.csv,PA14+MB,Gentamicin,20ug/ml,Gentamicin,
+X180717_02_tic.csv,PA14+MB,Gent_H2O2_327mM,20ug/ml + 327mM,Gent + H2O2,
+X180717_03_tic.csv,phz,Gent_H2O2_327mM,20ug/ml + 327mM,Gent + H2O2,
+X180719_02_tic.csv,PA14+MB,Gent_H2O2_327mM,20ug/ml + 327mM,Gent + H2O2,
+X180719_03_tic.csv,phz,Gent_H2O2_327mM,20ug/ml + 327mM,Gent + H2O2,
+X180719_04_tic.csv,PA14+MB,Gent_H2O2_327mM,20ug/ml + 327mM,Gent + H2O2,
+X180719_05_tic.csv,phz,Gent_H2O2_327mM,20ug/ml + 327mM,Gent + H2O2,
+X180720_02_tic.csv,PA14+MB,Gent_H2O2_327mM,20ug/ml + 327mM,Gent + H2O2,
+X180720_03_tic.csv,phz,Gent_H2O2_327mM,20ug/ml + 327mM,Gent + H2O2,
+X180720_04_tic.csv,PA14+MB,H2O2_327mM,327mM,H2O2,327000
+X180720_05_tic.csv,phz,H2O2_327mM,327mM,H2O2,327000
+X180720_06_tic.csv,PA14+MB,H2O2_327mM,327mM,H2O2,327000
+X180720_07_tic.csv,phz,H2O2_327mM,327mM,H2O2,327000
+X180727_03_tic.csv,PA14+MB,H2O2_50uM,50uM,H2O2,50
+X180727_04_tic.csv,PA14+MB,H2O2_50uM,50uM,H2O2,50
+X180727_05_tic.csv,phz,H2O2_50uM,50uM,H2O2,50
+X180727_06_tic.csv,phz,H2O2_50uM,50uM,H2O2,50
+X181002_02_tic.csv,PA14+MB,H2O2_100uM,100uM,H2O2,100
+X181002_03_tic.csv,PA14+MB,H2O2_100uM,100uM,H2O2,100
+X181002_04_tic.csv,phz,H2O2_100uM,100uM,H2O2,100
+X181002_05_tic.csv,phz,H2O2_100uM,100uM,H2O2,100
+X181002_06_tic.csv,PA14+MB,H2O2_100uM,100uM,H2O2,100
+X181002_07_tic.csv,PA14+MB,H2O2_200uM,200uM,H2O2,200
+X181002_08_tic.csv,phz,H2O2_100uM,100uM,H2O2,100
+X181002_09_tic.csv,phz,H2O2_200uM,200uM,H2O2,200
+X181002_10_tic.csv,PA14+MB,H2O2_200uM,200uM,H2O2,200
+X181002_11_tic.csv,PA14+MB,H2O2_200uM,200uM,H2O2,200
+X181002_12_tic.csv,phz,H2O2_200uM,200uM,H2O2,200
+X181002_13_tic.csv,phz,H2O2_200uM,200uM,H2O2,200
+X181009_02_tic.csv,PA14+MB,Control,Control,Control,
+X181009_03_tic.csv,PA14+MB,Control,Control,Control,
+X181009_04_tic.csv,PA14+MB,Control,Control,Control,
+X181009_05_tic.csv,PA14+MB,H2O2_327mM,327mM,H2O2,327000
+X181009_06_tic.csv,PA14+MB,H2O2_327mM,327mM,H2O2,327000
+X181009_07_tic.csv,PA14+MB,H2O2_327mM,327mM,H2O2,327000
+X181009_08_tic.csv,MB control,H2O2_327mM,327mM,H2O2,327000
+X181009_09_tic.csv,MB control,H2O2_327mM,327mM,H2O2,327000
+X181010_02_tic.csv,PA14+MB,H2O2_980mM,980mM,H2O2,980000
+X181010_03_tic.csv,PA14+MB,H2O2_980mM,980mM,H2O2,980000
+X181010_04_tic.csv,PA14+MB,H2O2_980mM,980mM,H2O2,980000
+X181010_05_tic.csv,MB control,H2O2_327mM,327mM,H2O2,327000
+X181010_06_tic.csv,MB control,Gent_H2O2_327mM,20ug/ml + 327mM,Gent + H2O2,
+X181010_07_tic.csv,MB control,Gent_H2O2_327mM,20ug/ml + 327mM,Gent + H2O2,
+X181010_08_tic.csv,MB control,Gent_H2O2_327mM,20ug/ml + 327mM,Gent + H2O2,
+X181011_02_tic.csv,MB control,Control,Control,Control,
+X181011_03_tic.csv,MB control,Control,Control,Control,
+X181011_04_tic.csv,MB control,Control,Control,Control,
+X190125_02_tic.csv,MB control,Carbenicillin,50ug/ml,Carbenicillin,
+X190125_03_tic.csv,MB control,Carbenicillin,50ug/ml,Carbenicillin,
+X190125_04_tic.csv,MB control,Carbenicillin,50ug/ml,Carbenicillin,
+X190125_05_tic.csv,MB control,Gentamicin,20ug/ml,Gentamicin,
+X190125_06_tic.csv,MB control,Gentamicin,20ug/ml,Gentamicin,
+X190125_07_tic.csv,MB control,Gentamicin,20ug/ml,Gentamicin,
+X190125_08_tic.csv,PA14+MB,Carbenicillin,50ug/ml,Carbenicillin,
+X190125_09_tic.csv,PA14+MB,Carbenicillin,50ug/ml,Carbenicillin,
+X190125_10_tic.csv,PA14+MB,Carbenicillin,50ug/ml,Carbenicillin,
